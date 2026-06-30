@@ -3,7 +3,7 @@ resource "azurerm_resource_group" "rg" {
   location = "Central India"
 }
 
-resource "azurerm_resource_group" "rg" {
+resource "azurerm_resource_group" "rg1" {
   name     = "test-rg"
   location = "Central India"
 }
