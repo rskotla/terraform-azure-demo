@@ -21,3 +21,4 @@ resource "azurerm_resource_group" "rg" {
 
 #variables.tf
 
+#outputs.tf
